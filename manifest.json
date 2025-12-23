@@ -1,9 +1,20 @@
 {
-  "name": "FitPulse Pro",
-  "short_name": "FitPulse",
-  "start_url": ".",
+  "name": "PacePulse Fitness Metronome",
+  "short_name": "PacePulse",
+  "start_url": "https://mariogusman.github.io/fit-metronome/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#00F0FF",
-  "icons": [{ "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }]
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": [
+    "fitness"
+  ],
+  "id": "PacePulse-Fitness-Metronome",
+  "description": "PacePulse Fitness Metronome"
 }
